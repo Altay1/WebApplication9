@@ -11,6 +11,7 @@ namespace WebApplication9.Models.EnumTypes
         Fantasy,
         Adventure,
         Mystery,
-        Horor
+        Horor,
+        NotDetermine
     }
 }
